@@ -6,7 +6,9 @@
 *.lo
 *.o
 *.obj
-
+*.DS*
+*/DS_Store*
+*.vscode*
 # Precompiled Headers
 *.gch
 *.pch
